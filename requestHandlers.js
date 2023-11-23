@@ -24,7 +24,7 @@ function start(response) {
         'context.fillStyle = "blue";'+
         'context.fill();'+
         'context.lineWidth = 5;'+
-        'context.strokeStyle = "#003300";'+
+        'context.strokeStyle = "green";'+
         'context.stroke();'+
         '</script>'+
         '</body>'+
